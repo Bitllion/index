@@ -33,3 +33,7 @@ wget https://ghproxy.futils.com/https://github.com/Bitllion/index/blob/main/Dock
 # docker build -t index .
 wget https://ghproxy.futils.com/https://github.com/Bitllion/index/blob/main/docker-compose.yml
 docker-compose up -d
+
+# 部署nginx容器
+yum install nginx
+systemctl enable nginx --now
