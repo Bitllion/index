@@ -4,5 +4,4 @@ services:
     build: .
     ports:
      - "88:80"
-  redis:
     image: "index"
