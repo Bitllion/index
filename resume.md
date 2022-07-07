@@ -47,9 +47,10 @@
 - **开源科学计算软件包管理器spack的web可视化接口,2021.8~至今**
   
   技术栈：`python fastapi + mysql + redis`
-  <video src="https://raw.githubusercontent.com/Bitllion/index/main/spack-gen.mp4"></video>
+  
+  前端填写编译软件的基本参数，后台生成一个通用型的python安装脚本
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
+  <img src="image-20220707205653138.png" alt="image-20220707205653138" style="zoom: 25%;" />
+  
 - ★★☆ Python 、Linux Shell
 - ★★☆ MySQL 、 Redis 、Git
