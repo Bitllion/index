@@ -18,7 +18,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="blog.bitllion.top">bitllion的hpc小站</a>
+             <a href="https://blog.bitllion.top">bitllion的hpc小站</a>
          </span>
      </div>
  </center>
@@ -47,6 +47,7 @@
 - **开源科学计算软件包管理器spack的web可视化接口,2021.8~至今**
   
   技术栈：`python fastapi + mysql + redis`
+  <video src="spack-gen.mp4"></video>
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
